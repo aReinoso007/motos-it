@@ -1,0 +1,8 @@
+{
+  "name": "MotosIT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ca16e7ed"
+}
